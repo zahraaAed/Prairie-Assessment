@@ -1,0 +1,60 @@
+body{
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.account{
+    display: inline-block;
+}
+
+h5{
+    color:rgb(101, 76, 168)
+}
+.header{
+    margin: 0px;
+}
+.account{
+    display:inline-block;
+    margin: 0;
+}
+.input{
+    border-style: ridge;
+    border-radius: 1opx;
+
+}
+img{
+    float: right;
+    height: 80%;
+    width: 30%;
+    margin-right: 300px;
+    border-radius: 15px;
+}
+#remb{
+    height: 10px;
+    width: 10px;
+}
+.remember{
+    margin-top: 50px;
+    display: inline-block;
+
+}
+tr,td{
+    border-style:solid;
+
+   
+}
+td{
+    width: 100px;
+}
+.form{
+    margin-top: 100px;
+}
+.account{
+    display:flex;
+    flex-direction: row;
+   
+}
+.button{
+    background-color:rgb(101, 76, 168)
+    
+}
